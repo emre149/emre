@@ -15,3 +15,5 @@ C/S student interested in Blockchain and especially in DeFi usages.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emre149&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="XdpCs's Github Stats" />
 </p>
 </details>
+
+![]([https://pbs.twimg.com/media/GI4WxNDbwAAk7Y4?format=jpg&name=900x900](https://pbs.twimg.com/media/F6PuPDhXoAAzajY?format=jpg&name=medium))
