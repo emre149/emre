@@ -11,7 +11,7 @@ C/S student interested in Blockchain and especially in DeFi usages.
   <br>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emre149)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emre149&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="XdpCs's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emre149">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emre149&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="XdpCs's Github Stats" />
 </p>
 </details>
