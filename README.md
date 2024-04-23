@@ -3,9 +3,8 @@
 C/S student interested in Blockchain and especially in DeFi usages.
 
 * 📚 Studying at 42 Paris, I'm open to any Blockchain project or hackathons
-* 🌱 Currently, learning Rust, Solidity, Move.
+* 🌱 Currently learning Rust, Solidity and Move.
 * 📧 Reach me by [sending me an email](mailto:emrededemoglu149@gmail.com) or on Discord.
-* 🧐 I am open to any Blockchain project or hackathons.
 ---
 <details>
   <summary>Some of my Github Public Stats 💻</summary>
